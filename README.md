@@ -1,3 +1,8 @@
+
+![Jenkins + CDK](https://user-images.githubusercontent.com/53549619/180176728-d2a4cc1b-7ae8-45f4-baed-036b32d07ae7.PNG)
+
+![Application Architecture](https://user-images.githubusercontent.com/53549619/180176823-c0296335-6436-47b3-8020-305fde899571.PNG)
+
 # Welcome to your CDK TypeScript project
 
 This is a blank project for CDK development with TypeScript.
